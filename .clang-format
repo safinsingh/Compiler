@@ -1,0 +1,8 @@
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForIndentation
+ColumnLimit: 100
+AllowShortCaseLabelsOnASingleLine: true
+AlignAfterOpenBracket: Align
+AllowShortIfStatementsOnASingleLine: true
+BinPackParameters: false

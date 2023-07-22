@@ -1,0 +1,11 @@
+proc main(a: int, b: str) {
+    val k = -10
+    val j = 9
+    val r = {
+        8i
+    }
+}
+
+main(
+    { lol }
+)
